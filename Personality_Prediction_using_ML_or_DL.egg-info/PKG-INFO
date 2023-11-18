@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: Personality-Prediction-using-ML-or-DL
+Version: 0.0.1
+Author: Anshika_Singh
+Author-email: singh562anshika@gmail.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: matplotlib
+Requires-Dist: scikit-learn

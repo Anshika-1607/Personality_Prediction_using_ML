@@ -1,0 +1,7 @@
+README.md
+setup.py
+Personality_Prediction_using_ML_or_DL.egg-info/PKG-INFO
+Personality_Prediction_using_ML_or_DL.egg-info/SOURCES.txt
+Personality_Prediction_using_ML_or_DL.egg-info/dependency_links.txt
+Personality_Prediction_using_ML_or_DL.egg-info/requires.txt
+Personality_Prediction_using_ML_or_DL.egg-info/top_level.txt
